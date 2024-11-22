@@ -10,4 +10,6 @@ void main(){
     for(i = 0;i < x;i++){
         printf("%d", angka[i]);//(C) Tentukan format tipe data; (D) Tentukan variabel
     }
+
+    printf("hello");
 }
